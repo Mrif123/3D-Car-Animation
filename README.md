@@ -46,8 +46,6 @@ Through the use of **powerful OpenGL functions**, this project delivers **realis
 | `N`         | Toggle **night mode** 🌙         |
 | `L`         | Adjust **lighting effects** 💡    |
 
-## 📸 Screenshots
-*Coming Soon!* 🚧
 
 ## 🤝 Contribution
 Contributions are welcome! Follow these steps to contribute:
